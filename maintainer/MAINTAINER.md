@@ -1,7 +1,7 @@
 # Maintainer
 ### Dindin Hernawan
-Github: [dindinhernawan](https://github.com/dindinhernawan)  
-E-Mail: <dindinhernawan@yahoo.co.id>  
+Github: [dindinG41TR3](https://github.com/dindinG41TR3)  
+E-Mail: <dindin_hernawan@yahoo.com>  
 
 **Group:**
  * Founder
