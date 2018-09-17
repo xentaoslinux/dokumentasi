@@ -1,12 +1,12 @@
 # Dokumentasi 
 |**Team**|**Mission**|**Progress**|
 |:---:|:---:|:---:|
-|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://dev.xentaos.org/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://dev.xentaos.org/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://dev.xentaos.org/progress.html)|
+|![Team](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/config-users.png)<br>Kunjungi halaman Xenta OS - Developer [Team](http://www.xentaos.com/p/team.html)|![Mission](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-details.png)<br>Kunjungi halaman Xenta OS - Developer [Mission](http://www.xentaos.com/p/mission.html)|![Progress](https://raw.githubusercontent.com/xentaos/xenta-x-icons/master/build/Xenta-X/apps/96/cs-startup-programs.png)<br>Kunjungi halaman Xenta OS - Developer [Progress](http://www.xentaos.com/p/progress.html)|
 
 ---
-Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](http://dev.xentaos.org/join.html)
+Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](http://www.xentaos.com/p/join.html)
 
-Semua Project Tim Dokumentasi kunjungi halaman [Xenta OS - Developer](http://dev.xentaos.org/project.html).  
+Semua Project Tim Dokumentasi kunjungi halaman [Xenta OS - Developer](http://www.xentaos.com/p/project.html).  
 Project yang sedang dikerjakan :  
  * [**E-Book**](https://github.com/xentaos/dokumentasi/projects/1)  
  > Project Pembuatan Dokumentasi Panduan.  
