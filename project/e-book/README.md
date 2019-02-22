@@ -1,4 +1,10 @@
 ## E-Book Project
+
+![GitHub issues](https://img.shields.io/github/issues/xentaoslinux/dokumentasi.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/xentaoslinux/dokumentasi.svg)
+![GitHub forks](https://img.shields.io/github/forks/xentaoslinux/dokumentasi.svg?style=social)  
+Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
+
 **Panduan Desktop** <!-- ([project](desktop)) -->
  * E-Book Panduan Desktop Xenta OS Cinnamon Edisi
    <!-- [.odt](../blob/master/e-book/desktop/E-Book%20Panduan%20Desktop%20Xenta%20OS%20Cinnamon%20Edisi.odt) -->
@@ -22,3 +28,8 @@
  
  **Panduan Remaster** <!-- [project](remaster) -->
  * E-Book Panduan Dasar Remaster Distro GNU/Linux
+ 
+  
+ **Panduan LibreOffice** <!-- [project](remaster) -->
+ * E-Book Panduan LibreOffice dari Komunitas [BLOI](http://belajarlibreofficeid.web.id/)
+
