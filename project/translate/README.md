@@ -2,7 +2,7 @@
 Project : **Translate**  
 Section : **Software**  
 
-Apa yang harus saya harus Kerjakan ?
+Apa yang harus saya Kerjakan ?
 + Menerjemahkan Software Khas Xenta OS.
 + Project Kerjanya di [Disini](https://translations.launchpad.net/xentaos)
 
