@@ -1,0 +1,8 @@
+KPGLI Berdiri Sejak 17 Juli 2019 didirikan oleh Dindin Hernawan sebagai Pendiri sekaligus ketua organisasi. KPGLI Merupakan singkatan dari Kelompok Penggiat GNU/Linux Indonesia. Didirikan sebagai wadah bagi sebuah kelompok dalam menggiati kegiatan opensource khususnya Distro / Distribusi GNU/Linux.
+
+Misi :
+"Membangun Kelompok Solid dalam Menggiati Distro GNU/Linux Lokal Indonesia"
+Visi :
+- Membangun Kelompok Solid penggiat Distro GNU/Linux
+- Mempererat tali silaturahmi sesama kelompok penggiat Distro GNU/Linux
+- Meramaikan  dan turut serta dalam memajukan Distro GNU/Linux Lokal Indonesia
