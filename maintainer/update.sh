@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 repository=dokumentasi
-update="Menambahkan E-Book Panduan DE 2020"
+update="Memperbaharui Link Download Panduan DE Cinnamon 2020"
 figlet $repository
 cd ..
 echo "Set Remote $team..."
