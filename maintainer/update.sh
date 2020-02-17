@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 repository=dokumentasi
-update="Menambahkan E-Mail xentaoslinux@yahoo.com pada Halaman Donasi"
+update="Arsip Tue, 18 Feb 2020 01:15:52 +0700 "
 figlet $repository
 cd ..
 echo "Set Remote $team..."
