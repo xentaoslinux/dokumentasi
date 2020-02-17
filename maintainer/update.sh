@@ -11,7 +11,7 @@
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
 repository=dokumentasi
-update="Memperbaharui Link Download Panduan DE Cinnamon 2020"
+update="Menambahkan E-Mail xentaoslinux@yahoo.com pada Halaman Donasi"
 figlet $repository
 cd ..
 echo "Set Remote $team..."
