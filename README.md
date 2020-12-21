@@ -12,12 +12,16 @@ Made with <span style="color: #e25555;">&#9829;</span> in Indonesia ![flag](http
 Xenta OS adalah Distribusi Sistem Operasi GNU/Linux Lokal Indonesia. Proyek ini terbuka bagi siapa saja yang mau berkontribusi. Tujuan didirikannya proyek ini salah satunya sebagai wadah berkreatifitas dan berkomunitas sesama penggiat GNU/Linux asal Indonesia. Tertarik bergabung Menjadi Tim Dokumentasi ? [Ayo Gabung!](http://www.xentaos.com/p/join.html)
 
 Semua Project Tim Dokumentasi kunjungi halaman [Xenta OS - Developer](http://www.xentaos.com/p/project.html).  
-Project yang sedang dikerjakan :  
- * [**E-Book**](https://github.com/xentaos/dokumentasi/projects/1)  
+Project yang sedang dikerjakan : 
+ * [**Consultation**](https://github.com/xentaoslinux/dokumentasi/tree/master/project/consultation)  
+ > Project Pembuatan Prosedur Consultation.. 
+ * [**E-Book**](https://github.com/xentaoslinux/dokumentasi/tree/master/project/e-book)  
  > Project Pembuatan Dokumentasi Panduan.  
- * [**Translate**](https://github.com/xentaos/dokumentasi/projects/2)  
+ * [**Translate**](https://github.com/xentaoslinux/dokumentasi/tree/master/project/translate)  
  > Project Menerjemahkan Aplikasi dalam Bahasa Indonesia.  
-
+ * [**Training**](https://github.com/xentaoslinux/dokumentasi/tree/master/project/training)  
+ > Project Membuat Modul Training.  
+ 
 Perangkat Lunak yang diperlukan dalam mengerjakan Proyek:  
 **Required:**
 * [LibreOffice](https://www.libreoffice.org/)  
